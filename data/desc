@@ -1,0 +1,9 @@
+train:
+    0.2802 positive
+    mAP 0.6296
+dev:
+    0.3308 positive
+    mAP 0.6839
+test:
+    0.2913 positive
+    mAP 0.6406
